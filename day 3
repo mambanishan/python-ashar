@@ -1,0 +1,14 @@
+class Grandfather:
+    house = "luxury house"
+
+    class Father (Grandfather)
+        car = 
+
+        jewelery = "gold jewelery"
+
+        class son(grandfather,father)
+            console = "Ps5"
+        
+        print (son.house)
+        print (son.car)
+        print (son.gold jwelery)
